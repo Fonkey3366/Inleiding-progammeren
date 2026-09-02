@@ -1,11 +1,7 @@
-float driequesten = 3;
+boolean driequesten = true;
 
-boolean gamecomplete = false;
+boolean gamegedaan = true;
 
-if (driequesten >= 3) {
- gamecomplete = true;
-}
-
-if (gamecomplete) {
-println("Gefeliciteerd!");
+if (driequesten == true && gamegedaan == true) {
+ println("Gefeliciteerd! Je hebt de game gecomplete!"); 
 }
