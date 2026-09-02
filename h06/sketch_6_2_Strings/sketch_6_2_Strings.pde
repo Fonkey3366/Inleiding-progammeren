@@ -34,7 +34,7 @@ double mijnlengte = 1.60;
 if (mijnlengte <= 1.60) {
  println("Ik mag gratis naar het toilet want ik ben: " + mijnlengte); 
 }
-
+////
 // Groter dan 
 int mijnmondgehouden = 15;
 
